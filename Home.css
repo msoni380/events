@@ -137,24 +137,23 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 468px;
+    min-height: 920px;
   }
 
   .u-section-1 .u-image-1 {
-    height: 340px;
-    margin-top: -75px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    height: 285px;
+    width: 285px;
+    margin-top: -54px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-top: -67px;
+    margin-top: -73px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
-    margin-top: 177px;
+    margin-top: 219px;
     margin-right: initial;
     margin-left: initial;
     width: auto;

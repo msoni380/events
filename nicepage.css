@@ -43627,13 +43627,16 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-menu-1 {
-    margin-top: 51px;
-    margin-right: 0;
+    margin-top: 55px;
+    margin-right: -38px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -231px;
-    margin-left: -72px;
+    width: 346px;
+    height: 346px;
+    margin-top: -235px;
+    margin-bottom: -92px;
+    margin-left: -76px;
   }
 }
  .u-footer {
